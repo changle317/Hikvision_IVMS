@@ -1,4 +1,4 @@
-# Hikvision_IVMS
+# Hikvision_IVMS_Exp
 本项目为海康威视IVMS 综合利用脚本，属于是初次学习Golang的练手小项目, 不喜误喷, 如果感觉用着可以不妨来个Start 这是我更新最大的动力
 # 使用方法
 单个目标
